@@ -1,0 +1,30 @@
+📋 LOGO SETUP INSTRUCTIONS
+==========================
+
+Your website is now configured to use a logo image!
+
+TO ADD YOUR LOGO:
+-----------------
+1. Save your logo as "logo.png" in this folder:
+   c:\Users\francis.samba\Desktop\Tasty Meals\Website\logo.png
+
+2. Recommended logo specs:
+   - Format: PNG with transparent background
+   - Size: 200x200px (will auto-resize to 40px height)
+   - Keep it simple and clear
+
+WHERE TO GET A FREE LOGO:
+------------------------
+✓ Canva - https://www.canva.com (easiest)
+✓ LogoMakr - https://logomakr.com
+✓ Hatchful - https://www.shopify.com/tools/logo-maker
+
+OR extract the logo from your brand image attachment!
+
+WHAT'S BEEN UPDATED:
+-------------------
+✓ Navbar now shows logo + "Tasty Meals" text
+✓ Favicon added (shows in browser tab)
+✓ Auto-responsive sizing
+
+Once you add logo.png, refresh the browser to see it!
